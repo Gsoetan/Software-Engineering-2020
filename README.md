@@ -1,2 +1,6 @@
-# Software-Engineering-2020
-CSC 4350 Software Engineering semester long project 
+# Event Management system
+Team members:
+-Chen, Chen
+-Jones, Jordan
+-Abdi, Abdullahi
+-Soetan, George 
