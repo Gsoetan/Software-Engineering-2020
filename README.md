@@ -1,6 +1,6 @@
 # Event Management system
 Team members:
 -Chen, Chen
--Jones, Jordan
+-Jordan, Jones
 -Abdi, Abdullahi
--Soetan, George 
+-George, Soetan 
